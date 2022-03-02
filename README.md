@@ -31,6 +31,6 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=schulzi66&theme=dark&count_private=true&show_icons=true&include_all_commits=true">&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=schulzi66&theme=dark&count_private=true&show_icons=true&include_all_commits=true"><br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schulzi66&theme=dark&layout=compact&hide=php">
 </div>
