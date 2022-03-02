@@ -27,10 +27,3 @@
   <a href="https://www.xing.com/profile/Marius_Schulze8/cv" target="_blank"> <img src="https://raw.githubusercontent.com/schulzi66/schulzi66/main/img/xing.svg" alt="xing" width="48" height="48"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/marius-schulze-78a84a14a/" target="_blank"> <img src="https://raw.githubusercontent.com/schulzi66/schulzi66/main/img/linkedin.svg" alt="linkedIn" width="48" height="48"/> </a>
 </p>
-
-<br>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=schulzi66&theme=dark&count_private=true&show_icons=true&include_all_commits=true"><br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schulzi66&theme=dark&layout=compact&hide=php">
-</div>
