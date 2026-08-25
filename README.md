@@ -18,8 +18,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/schulzi66/schulzi66/main/img/css3.svg" alt="css3" width="48" height="48"/> </a>&nbsp;
   <a href="https://jestjs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/schulzi66/schulzi66/main/img/jest.svg" alt="jest" width="48" height="48"/> </a>&nbsp;
   <a href="https://www.isaqb.org/certifications/cpsa-certifications/cpsa-foundation-level/" target="_blank"> <img src="https://raw.githubusercontent.com/schulzi66/schulzi66/main/img/isaqb.png" alt="isaqb" width="48" height="48"/> </a>&nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/schulzi66/schulzi66/main/img/csharp.svg" alt="csharp" width="48" height="48"/> </a>&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/schulzi66/schulzi66/main/img/dotnet.svg" alt="dotnet" width="48" height="48"/> </a>&nbsp;
 </p>
 
 <h3 align="center">Find me on:</h3>
